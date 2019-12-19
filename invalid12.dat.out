@@ -1,0 +1,4 @@
+InvalidFileFormatException: bad caher
+	at CircuitBoard.<init>(CircuitBoard.java:127)
+	at CircuitTracer.<init>(CircuitTracer.java:170)
+	at CircuitTracer.main(CircuitTracer.java:66)
